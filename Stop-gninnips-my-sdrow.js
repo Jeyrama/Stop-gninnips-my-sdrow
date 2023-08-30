@@ -9,3 +9,4 @@ spinWords( "This is another test" )=> returns "This is rehtona test"
 */
 
 
+// Solution
